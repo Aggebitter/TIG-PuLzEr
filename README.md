@@ -1,6 +1,7 @@
 # TIG-PuLzEr
 Semi/Automatic TIG ARC trigger on Arduino
 
+Video on function here https://youtu.be/d_q7jEKZYn8
 
 
              -----------   TIG PuLzEr ------------
