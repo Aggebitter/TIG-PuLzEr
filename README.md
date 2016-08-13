@@ -9,11 +9,11 @@ I needed short on/off pulses on my tig at an adjustable pulse lenght both manual
 This is for welding very thin titanium sheets or other thin metals
   
  *  Usage:
-The right nobb is multi function. Function select, Pulse time and Help
-The left nobb sets the puls length for the arc
+The right knob is multi function. Function select, Pulse time and Help
+The left knob sets the puls length for the arc
 The Trigger activate the function
  
- *  Right nobb:
+ *  Right knob:
  
 -Function select-
 The left range sets the TIG PuLzEr in semi automatic mode called "TRIGGER"
@@ -28,10 +28,10 @@ length between arc pulses.
  
 -Help- 
 To get a nice "space" between semi automatic and automatic mode, I 
-put a gap in the range for tha potentiometer and why not use it for some
+put a gap in the range for tha potentiometer knob and why not use it for some
 basic help. 
 
- * Left nobb:
+ * Left knob:
 
 Sets the lenght on each pulse. Notis that that the pulse lenght cant be 
 longer than the pulse time and the software adjust it to be in range for
@@ -47,8 +47,8 @@ the pulses.
 Stoping the pulses can also be done by turning the right nobb to  
 ither Help or semi automatic mode "TRIGGER" mode.
  
-The pulse lenght and puls time can be adjusted on the fly as long as you are in
-the range for each function selected.
+The pulse lenght and puls time can be adjusted on the fly with the knob as long 
+as you are in the range for each function selected.
 
 
  *  To Do !! 
